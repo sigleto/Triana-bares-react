@@ -1,4 +1,6 @@
-
+body{
+    background-color: beige;
+}
 .parrafo{
 
     width:70%;
@@ -6,9 +8,19 @@
     line-height: 1.5;
     align-items: center;
     margin: auto;
+    
 }
 
-p{
+.per{
     font-size: 20px;
-    color: rgba(0, 0, 0, 0.688);
+    color: rgba(32, 4, 4, 0.688);
+}
+.imagen{
+    width:45%;
+    margin-left: 160px;
+    margin-bottom: 30px;
+}
+.logo{
+    margin-bottom:300px;
+    width: 100px;
 }

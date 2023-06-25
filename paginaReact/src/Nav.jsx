@@ -5,9 +5,9 @@ const Nav=()=>{
 
     return(
     <nav className="navegador">
-        <NavLink className="nav" to="/">PÁGINA PRINCIPAL</NavLink>
-        <NavLink className="nav" to="/establecimientos">ESTABLECIMIENTOS</NavLink>
-        <NavLink className="nav" to="/formulario">CONTACTO</NavLink>
+        <NavLink className="nav" to="/"><span className="titulin">PÁGINA PRINCIPAL</span></NavLink>
+        <NavLink className="nav" to="/establecimientos"><span className="titulin">ESTABLECIMIENTOS</span></NavLink>
+        <NavLink className="nav" to="/formulario"><span className="titulin">CONTACTO</span></NavLink>
     </nav>
 
     )

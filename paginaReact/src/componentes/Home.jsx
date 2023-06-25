@@ -8,9 +8,12 @@ const Home=()=>{
     return(
 
         <>
-        <header class="container">
-    <img src="/LogoJuan.png" alt="juan" class="img-thumbnail img-fluid"/>
-    <div className="parrafo"><p>Esta página contiene una relación de establecimientos gastronómicos distribuidos en las categorías de "BARES" y "RESTAURANTES".La principal diferencia entre ambas es que en todos los sitios incluidos como restaurantes se puede reservar. Ello no quiere decir que también lo puedas hacer en algunos bares.
+
+         
+    <header class="container">
+    <img className='logo'src="/LogoJuan.png" alt="juan" />
+    <img className='imagen' src="principal.webp" alt="juan" />
+    <div className="parrafo"><p className="per">Esta página contiene una relación de establecimientos gastronómicos distribuidos en las categorías de "BARES" y "RESTAURANTES".La principal diferencia entre ambas es que en todos los sitios incluidos como restaurantes se puede reservar. Ello no quiere decir que también lo puedas hacer en algunos bares.
         Así mismo, en los todos los establecimientos catalogados como bares, se pueden pedir tapas, lo que, tampoco implica que en algunos restaurantes también te las sirvan.
         En la sección de <Link to="/formulario" target="_blank">contactos</Link> me puedes dejar algún establecimiento que eches de menos en la relación y lo incluiré sin problema.</p>
      </div>

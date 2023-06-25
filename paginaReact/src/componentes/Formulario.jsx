@@ -4,7 +4,7 @@ import Clima from "../anexos/clima";
 import '../estilos/formulario.css'
 
 const Formulario = () => {
-  const { register, handleSubmit, formState: { errors } } = useForm();
+  const { register, handleSubmit,reset, formState: { errors } } = useForm();
 
   const accion = async (datos) => {
     try {
@@ -14,7 +14,8 @@ const Formulario = () => {
         body: JSON.stringify(datos),
         headers: { "Content-Type": "application/json" }
       });
-      console.log("Datos enviados correctamente");console.log(datos)
+      console.log("Datos enviados correctamente");
+      reset();
     } catch (error) {
       console.log("Error al enviar los datos:", error);
     }
@@ -22,6 +23,8 @@ const Formulario = () => {
 
   return (
     <>
+    <div className="contForm">
+    
       <form className="formulario"onSubmit={handleSubmit(accion)}>
         <div className="campos">
           <label htmlFor="Alias"><p>Alias</p></label>
@@ -45,6 +48,8 @@ const Formulario = () => {
         {errors.correo?.type === "pattern" && <div><p>Eso no es un correo válido</p></div>}
         {errors.preferencias?.type === "required" && <div><p>Por favor, elige una preferencia</p></div>}
       </form>
+      <img src="imagen-contactos.jpg" className="pulpito"alt="pulpito"/>
+      </div>
       <Clima />
     </>
   );

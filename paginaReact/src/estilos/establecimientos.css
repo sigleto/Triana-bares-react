@@ -1,0 +1,13 @@
+body{
+
+    background-image: url("/restauranted.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 30px;
+    color:greenyellow;
+}
+.lista{
+    margin-left: 250px;
+    background-color: greenyellow;
+    width: 240px;
+}

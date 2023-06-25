@@ -1,0 +1,2 @@
+{"alias":"probando el texto","preferencias":"bares","correo":"","comentarios":"","_id":"6497dfe97fcc760f7a91d590","createdAt":"2023-06-25T06:34:17.443Z","updatedAt":"2023-06-25T06:34:17.443Z"}
+{"alias":"czxcc","preferencias":"bares","correo":"","comentarios":"","_id":"6497e06d7d15ebe9b6106de7","createdAt":"2023-06-25T06:36:29.049Z","updatedAt":"2023-06-25T06:36:29.049Z"}

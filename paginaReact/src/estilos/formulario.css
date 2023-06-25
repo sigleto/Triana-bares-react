@@ -1,3 +1,7 @@
+.contForm{
+    display: flex;
+}
+
 .formulario{
     margin-top: 30px;
 }
@@ -21,4 +25,14 @@ p{
     font-size:17px;
     color: rgb(5, 189, 57);
     width:fit-content;
+}
+.comentarios textarea{
+    width:200px;
+    height: 70px;
+}
+.pulpito{
+    width: 30%;
+    margin-left: 23%;
+    margin-bottom: 20px;
+    
 }

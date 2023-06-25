@@ -1,6 +1,6 @@
 import { Router } from "express";
 import Task from '../models/Task.js'
-
+import fs from 'fs'
 
 const router=Router()
 
@@ -21,8 +21,16 @@ router.post('/formulario',async(req,res)=>{
     comentarios:req.body.comentarios
 }) 
 await nueva.save()
+fs.appendFile('src/notas.txt', JSON.stringify(nueva) + '\n', (err) => {
+    if (err) {
+      console.error('Error al guardar la nota en el archivo:', err);
+    }
+  });
 res.send(nueva)
+
+
 } )
+
 
 // para borrar uno concreto
 router.delete("/formulario/:id",async (req,res)=>{
