@@ -8,7 +8,7 @@ const Formulario = () => {
 
   const accion = async (datos) => {
     try {
-      await fetch("http://localhost:3000/formulario", {
+      await fetch("mongodb+srv://sigleto:mongodbDos2ª@cluster0.yj61bca.mongodb.net/?retryWrites=true&w=majority", {
         method: 'POST',
         mode: 'cors',
         body: JSON.stringify(datos),

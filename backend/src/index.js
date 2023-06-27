@@ -3,7 +3,7 @@ import cors from "cors"
 import mongoose from "mongoose"
 import router from "./routes/routes.js"
 const app=express();
-mongoose.connect("mongodb://127.0.0.1:27017/formulario")
+mongoose.connect("mongodb+srv://sigleto:mongodbDos2ª@cluster0.yj61bca.mongodb.net/?retryWrites=true&w=majority")
 .then (()=>{console.log("conectado a mongo")})
 
 

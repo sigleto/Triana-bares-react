@@ -1,2 +1,3 @@
 {"alias":"probando el texto","preferencias":"bares","correo":"","comentarios":"","_id":"6497dfe97fcc760f7a91d590","createdAt":"2023-06-25T06:34:17.443Z","updatedAt":"2023-06-25T06:34:17.443Z"}
 {"alias":"czxcc","preferencias":"bares","correo":"","comentarios":"","_id":"6497e06d7d15ebe9b6106de7","createdAt":"2023-06-25T06:36:29.049Z","updatedAt":"2023-06-25T06:36:29.049Z"}
+{"alias":"primera","preferencias":"bares","correo":"","comentarios":"estupidez","_id":"649a9d90c041a2b287c51365","createdAt":"2023-06-27T08:28:00.411Z","updatedAt":"2023-06-27T08:28:00.411Z"}
