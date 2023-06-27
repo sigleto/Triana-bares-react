@@ -8,7 +8,7 @@ const Formulario = () => {
 
   const accion = async (datos) => {
     try {
-      await fetch("mongodb+srv://sigleto:mongodbDos2ª@cluster0.yj61bca.mongodb.net/?retryWrites=true&w=majority", {
+      await fetch("http://localhost:3000/formulario", {
         method: 'POST',
         mode: 'cors',
         body: JSON.stringify(datos),
@@ -18,7 +18,7 @@ const Formulario = () => {
       reset();
     } catch (error) {
       console.log("Error al enviar los datos:", error);
-    }
+    } 
   };
 
   return (

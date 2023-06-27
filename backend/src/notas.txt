@@ -1,3 +1,10 @@
 {"alias":"probando el texto","preferencias":"bares","correo":"","comentarios":"","_id":"6497dfe97fcc760f7a91d590","createdAt":"2023-06-25T06:34:17.443Z","updatedAt":"2023-06-25T06:34:17.443Z"}
 {"alias":"czxcc","preferencias":"bares","correo":"","comentarios":"","_id":"6497e06d7d15ebe9b6106de7","createdAt":"2023-06-25T06:36:29.049Z","updatedAt":"2023-06-25T06:36:29.049Z"}
 {"alias":"primera","preferencias":"bares","correo":"","comentarios":"estupidez","_id":"649a9d90c041a2b287c51365","createdAt":"2023-06-27T08:28:00.411Z","updatedAt":"2023-06-27T08:28:00.411Z"}
+{"alias":"sdasds","preferencias":"bares","correo":"","comentarios":"","_id":"649ab5c45af630574a695bf9","createdAt":"2023-06-27T10:11:16.076Z","updatedAt":"2023-06-27T10:11:16.076Z"}
+{"alias":"carffffds","preferencias":"restaurantes","correo":"","comentarios":"","_id":"649ab5f45af630574a695bfc","createdAt":"2023-06-27T10:12:04.882Z","updatedAt":"2023-06-27T10:12:04.882Z"}
+{"alias":"xx","preferencias":"bares","correo":"","comentarios":"","_id":"649abd4d8540ec5ef9fe5616","createdAt":"2023-06-27T10:43:26.013Z","updatedAt":"2023-06-27T10:43:26.013Z"}
+{"alias":"perfecto","preferencias":"bares","correo":"","comentarios":"","_id":"649ac74f341e03854ebee0cf","createdAt":"2023-06-27T11:26:07.622Z","updatedAt":"2023-06-27T11:26:07.622Z"}
+{"alias":"estúpida","preferencias":"bares","correo":"","comentarios":"","_id":"649ac78c341e03854ebee0d2","createdAt":"2023-06-27T11:27:08.645Z","updatedAt":"2023-06-27T11:27:08.645Z"}
+{"alias":"personaje","preferencias":"bares","correo":"","comentarios":"historias","_id":"649acb1d29bd66b0d58a8074","createdAt":"2023-06-27T11:42:21.687Z","updatedAt":"2023-06-27T11:42:21.687Z"}
+{"alias":"perfectp","preferencias":"restaurantes","correo":"","comentarios":"deconocido","_id":"649acd2309cdc8e01b18d42d","createdAt":"2023-06-27T11:50:59.017Z","updatedAt":"2023-06-27T11:50:59.017Z"}

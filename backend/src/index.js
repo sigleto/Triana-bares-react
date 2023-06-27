@@ -3,12 +3,21 @@ import cors from "cors"
 import mongoose from "mongoose"
 import router from "./routes/routes.js"
 const app=express();
-mongoose.connect("mongodb+srv://sigleto:mongodbDos2ª@cluster0.yj61bca.mongodb.net/?retryWrites=true&w=majority")
-.then (()=>{console.log("conectado a mongo")})
 
+mongoose.connect("mongodb+srv://sigleto:mongodbDos2ª@cluster0.yj61bca.mongodb.net/?retryWrites=true&w=majority", {
+    useNewUrlParser: true,
+    useUnifiedTopology: true
+  })
+  .then(() => {
+    console.log("Conectado a la base de datos de MongoDB");
+  })
+  .catch((error) => {
+    console.log("Error al conectar a la base de datos:", error);
+  });
 
 
 app.use(cors())
+
 app.use(express.json()) 
 app.use(router)
 
