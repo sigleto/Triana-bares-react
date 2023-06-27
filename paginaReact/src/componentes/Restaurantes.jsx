@@ -5,7 +5,7 @@ const Restaurantes=()=>{
     return(
 
     <>
-    <div class="contenido">
+    <div class="contenido2">
     <div class="estab">  
     <div class="bar">VICTORIA 8</div>
     <ul>

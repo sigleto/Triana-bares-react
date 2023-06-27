@@ -1,0 +1,29 @@
+.contenido1{
+    display:flex;
+    flex-wrap: wrap;
+    width: 90%;
+    background-color: azure;
+    background-image: url('principalh.jpg');
+    background-size: cover;
+    font-size:25px;
+	text-align:center;
+}
+.estab{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    background-color: bisque;
+}
+.estab li{
+    list-style: none;
+}
+.contenido2{
+    display:flex;
+    flex-wrap: wrap;
+    width: 90%;
+    background-color: azure;
+    background-image: url('principald.jpg');
+    background-size: cover;
+    font-size: 25px;
+    text-align: center;
+}
