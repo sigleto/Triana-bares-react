@@ -4,7 +4,7 @@ import mongoose from "mongoose"
 import router from "./routes/routes.js"
 const app=express();
 
-mongoose.connect("mongodb+srv://sigleto:mongodbDos2ª@cluster0.yj61bca.mongodb.net/?retryWrites=true&w=majority", {
+mongoose.connect("mongodb+srv://sigleto:mongoDos2ª@cluster0.yj61bca.mongodb.net/formulario?retryWrites=true&w=majority", {
     useNewUrlParser: true,
     useUnifiedTopology: true
   })
@@ -21,7 +21,7 @@ app.use(cors())
 app.use(express.json()) 
 app.use(router)
 
-
+ 
 //Implementa "text" para que express pueda interpretar el texto,json o formularios que se envia con "req" ose recibe con "res"
 app.use(express.text());
 app.use(express.json());

@@ -4,6 +4,7 @@ import fs from 'fs'
 
 const router=Router()
 
+
 router.get('/',(req,res)=>res.send('esperando'))
 
 //solicitud tipo GET (traer datos del backend)

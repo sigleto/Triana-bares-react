@@ -8,3 +8,11 @@
 {"alias":"estúpida","preferencias":"bares","correo":"","comentarios":"","_id":"649ac78c341e03854ebee0d2","createdAt":"2023-06-27T11:27:08.645Z","updatedAt":"2023-06-27T11:27:08.645Z"}
 {"alias":"personaje","preferencias":"bares","correo":"","comentarios":"historias","_id":"649acb1d29bd66b0d58a8074","createdAt":"2023-06-27T11:42:21.687Z","updatedAt":"2023-06-27T11:42:21.687Z"}
 {"alias":"perfectp","preferencias":"restaurantes","correo":"","comentarios":"deconocido","_id":"649acd2309cdc8e01b18d42d","createdAt":"2023-06-27T11:50:59.017Z","updatedAt":"2023-06-27T11:50:59.017Z"}
+{"alias":"carcelera","preferencias":"restaurantes","correo":"","comentarios":"","_id":"649b0ad3e4e71be97e2983b0","createdAt":"2023-06-27T16:14:11.246Z","updatedAt":"2023-06-27T16:14:11.246Z"}
+{"alias":"pepepep","preferencias":"restaurantes","correo":"","comentarios":"","_id":"649b11c64d6788c0b2266019","createdAt":"2023-06-27T16:43:50.129Z","updatedAt":"2023-06-27T16:43:50.129Z"}
+{"alias":"carcelelro","preferencias":"restaurantes","correo":"","comentarios":"","_id":"649b1760b47bfa8e73c3b89d","createdAt":"2023-06-27T17:07:44.057Z","updatedAt":"2023-06-27T17:07:44.057Z"}
+{"alias":"perosaa","preferencias":"bares","correo":"sigleto@gmail.com","comentarios":"sssss","_id":"649b18a4b47bfa8e73c3b89f","createdAt":"2023-06-27T17:13:08.735Z","updatedAt":"2023-06-27T17:13:08.735Z"}
+{"alias":"cercania","preferencias":"restaurantes","correo":"","comentarios":"","_id":"649b1fdbb47bfa8e73c3b8a1","createdAt":"2023-06-27T17:43:55.730Z","updatedAt":"2023-06-27T17:43:55.730Z"}
+{"alias":"sucio","preferencias":"bares","correo":"","comentarios":"","_id":"649b2097b47bfa8e73c3b8a3","createdAt":"2023-06-27T17:47:03.810Z","updatedAt":"2023-06-27T17:47:03.810Z"}
+{"alias":"pee","preferencias":"bares","correo":"","comentarios":"","_id":"649b34c8ed6b39768d694e4b","createdAt":"2023-06-27T19:13:12.784Z","updatedAt":"2023-06-27T19:13:12.784Z"}
+{"alias":"verdura","preferencias":"bares","correo":"car@gmail.com","comentarios":"oh , la verdura, que gran locura","_id":"649d771fa2f70915b760ef42","createdAt":"2023-06-29T12:20:47.215Z","updatedAt":"2023-06-29T12:20:47.215Z"}
