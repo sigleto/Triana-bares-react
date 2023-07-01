@@ -16,3 +16,5 @@
 {"alias":"sucio","preferencias":"bares","correo":"","comentarios":"","_id":"649b2097b47bfa8e73c3b8a3","createdAt":"2023-06-27T17:47:03.810Z","updatedAt":"2023-06-27T17:47:03.810Z"}
 {"alias":"pee","preferencias":"bares","correo":"","comentarios":"","_id":"649b34c8ed6b39768d694e4b","createdAt":"2023-06-27T19:13:12.784Z","updatedAt":"2023-06-27T19:13:12.784Z"}
 {"alias":"verdura","preferencias":"bares","correo":"car@gmail.com","comentarios":"oh , la verdura, que gran locura","_id":"649d771fa2f70915b760ef42","createdAt":"2023-06-29T12:20:47.215Z","updatedAt":"2023-06-29T12:20:47.215Z"}
+{"alias":"persojans","preferencias":"bares","correo":"","comentarios":"","_id":"649fcde252d56a9b9e3e8e62","createdAt":"2023-07-01T06:55:30.942Z","updatedAt":"2023-07-01T06:55:30.942Z"}
+{"alias":"y funciona","preferencias":"restaurantes","correo":"","comentarios":"","_id":"649fce3852d56a9b9e3e8e64","createdAt":"2023-07-01T06:56:56.082Z","updatedAt":"2023-07-01T06:56:56.082Z"}

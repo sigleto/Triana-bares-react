@@ -15,12 +15,7 @@ router.get('/formulario',async(req,res)=>{
 
 //metodo post para llevar datos a la base de datos
 router.post('/formulario',async(req,res)=>{
- const nueva=new Task({
-    alias:req.body.alias,
-    preferencias:req.body.preferencias,
-    correo:req.body.correo,
-    comentarios:req.body.comentarios
-}) 
+ const nueva=new Task(req.body) 
 await nueva.save()
 fs.appendFile('src/notas.txt', JSON.stringify(nueva) + '\n', (err) => {
     if (err) {
