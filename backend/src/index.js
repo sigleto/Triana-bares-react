@@ -2,9 +2,11 @@ import express from "express"
 import cors from "cors"
 import mongoose from "mongoose"
 import router from "./routes/routes.js"
+import dotenv from 'dotenv'
+dotenv.config();
 const app=express();
 
-mongoose.connect("mongodb+srv://sigleto:mongoDos2ª@cluster0.yj61bca.mongodb.net/formulario?retryWrites=true&w=majority", {
+mongoose.connect(process.env.MONGO_KEY, {
     useNewUrlParser: true,
     useUnifiedTopology: true 
   })

@@ -18,3 +18,8 @@
 {"alias":"verdura","preferencias":"bares","correo":"car@gmail.com","comentarios":"oh , la verdura, que gran locura","_id":"649d771fa2f70915b760ef42","createdAt":"2023-06-29T12:20:47.215Z","updatedAt":"2023-06-29T12:20:47.215Z"}
 {"alias":"persojans","preferencias":"bares","correo":"","comentarios":"","_id":"649fcde252d56a9b9e3e8e62","createdAt":"2023-07-01T06:55:30.942Z","updatedAt":"2023-07-01T06:55:30.942Z"}
 {"alias":"y funciona","preferencias":"restaurantes","correo":"","comentarios":"","_id":"649fce3852d56a9b9e3e8e64","createdAt":"2023-07-01T06:56:56.082Z","updatedAt":"2023-07-01T06:56:56.082Z"}
+{"alias":"asasa","preferencias":"restaurantes","correo":"","comentarios":"","_id":"649fd8883013c8f52454c838","createdAt":"2023-07-01T07:40:56.584Z","updatedAt":"2023-07-01T07:40:56.584Z"}
+{"alias":"ppooppm","preferencias":"bares","correo":"","comentarios":"","_id":"649fd88d3013c8f52454c83a","createdAt":"2023-07-01T07:41:01.398Z","updatedAt":"2023-07-01T07:41:01.398Z"}
+{"alias":"una polla","preferencias":"bares","correo":"","comentarios":"","_id":"64a0521a23760516529a5e9b","createdAt":"2023-07-01T16:19:38.235Z","updatedAt":"2023-07-01T16:19:38.235Z"}
+{"alias":"as","preferencias":"bares","correo":"","comentarios":"","_id":"64a06528c18432aa6c6da2de","createdAt":"2023-07-01T17:40:56.910Z","updatedAt":"2023-07-01T17:40:56.910Z"}
+{"alias":"ssss","preferencias":"bares","correo":"","comentarios":"","_id":"64a110111ea0ba5cdffe0e42","createdAt":"2023-07-02T05:50:09.612Z","updatedAt":"2023-07-02T05:50:09.612Z"}
