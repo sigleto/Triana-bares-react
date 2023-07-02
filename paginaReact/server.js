@@ -1,14 +1,15 @@
 import express from "express"
 import cors from "cors"
 import mongoose from "mongoose"
-import router from "./routes/routes.js"
+import router from "../backend/src/routes/routes.js"
 import dotenv from 'dotenv'
 dotenv.config();
 const app=express();
 
 mongoose.connect(process.env.MONGO_KEY, {
     useNewUrlParser: true,
-    useUnifiedTopology: true 
+    useUnifiedTopology: true,
+  
   })
   .then(() => {
     console.log("Conectado a la base de datos de MongoDB");

@@ -23,3 +23,6 @@
 {"alias":"una polla","preferencias":"bares","correo":"","comentarios":"","_id":"64a0521a23760516529a5e9b","createdAt":"2023-07-01T16:19:38.235Z","updatedAt":"2023-07-01T16:19:38.235Z"}
 {"alias":"as","preferencias":"bares","correo":"","comentarios":"","_id":"64a06528c18432aa6c6da2de","createdAt":"2023-07-01T17:40:56.910Z","updatedAt":"2023-07-01T17:40:56.910Z"}
 {"alias":"ssss","preferencias":"bares","correo":"","comentarios":"","_id":"64a110111ea0ba5cdffe0e42","createdAt":"2023-07-02T05:50:09.612Z","updatedAt":"2023-07-02T05:50:09.612Z"}
+{"alias":"polla","preferencias":"bares","correo":"","comentarios":"sd","_id":"64a165d2c42130f1c9ae1b9f","createdAt":"2023-07-02T11:56:02.477Z","updatedAt":"2023-07-02T11:56:02.477Z"}
+{"alias":"gtad","preferencias":"bares","correo":"","comentarios":"","_id":"64a165d8c42130f1c9ae1ba1","createdAt":"2023-07-02T11:56:08.756Z","updatedAt":"2023-07-02T11:56:08.756Z"}
+{"alias":"asdsd","preferencias":"bares","correo":"","comentarios":"","_id":"64a1925a27c7f8e3048a2d6e","createdAt":"2023-07-02T15:06:03.001Z","updatedAt":"2023-07-02T15:06:03.001Z"}
