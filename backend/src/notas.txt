@@ -31,3 +31,6 @@
 {"alias":"45454","preferencias":"restaurantes","correo":"","comentarios":"","_id":"64a1cacd437760f6d51dc394","createdAt":"2023-07-02T19:06:53.805Z","updatedAt":"2023-07-02T19:06:53.805Z"}
 {"alias":"asas","preferencias":"restaurantes","correo":"","comentarios":"","_id":"64a2cf92e37813aa4810177b","createdAt":"2023-07-03T13:39:30.496Z","updatedAt":"2023-07-03T13:39:30.496Z"}
 {"alias":"conseguido","preferencias":"restaurantes","correo":"","comentarios":"","_id":"64a2d78a68208ca66ca02e68","createdAt":"2023-07-03T14:13:30.154Z","updatedAt":"2023-07-03T14:13:30.154Z"}
+{"alias":"desde render","preferencias":"bares","correo":"","comentarios":"","_id":"64a2d963a89d65c79bb52504","createdAt":"2023-07-03T14:21:23.653Z","updatedAt":"2023-07-03T14:21:23.653Z"}
+{"alias":"sas","preferencias":"bares","correo":"","comentarios":"","_id":"64a2d977a89d65c79bb52506","createdAt":"2023-07-03T14:21:43.276Z","updatedAt":"2023-07-03T14:21:43.276Z"}
+{"alias":"ñoño","preferencias":"restaurantes","correo":"","comentarios":"","_id":"64a2f5ffe23f5e007d29dd13","createdAt":"2023-07-03T16:23:27.477Z","updatedAt":"2023-07-03T16:23:27.477Z"}
