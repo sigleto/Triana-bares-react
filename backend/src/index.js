@@ -9,7 +9,8 @@ const app=express();
 mongoose.connect(process.env.MONGO_KEY, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
-    
+   
+     
   })
   .then(() => {
     console.log("Conectado a la base de datos de MongoDB");

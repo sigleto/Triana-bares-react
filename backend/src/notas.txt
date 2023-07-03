@@ -27,3 +27,7 @@
 {"alias":"gtad","preferencias":"bares","correo":"","comentarios":"","_id":"64a165d8c42130f1c9ae1ba1","createdAt":"2023-07-02T11:56:08.756Z","updatedAt":"2023-07-02T11:56:08.756Z"}
 {"alias":"asdsd","preferencias":"bares","correo":"","comentarios":"","_id":"64a1925a27c7f8e3048a2d6e","createdAt":"2023-07-02T15:06:03.001Z","updatedAt":"2023-07-02T15:06:03.001Z"}
 {"alias":"dad","preferencias":"restaurantes","correo":"","comentarios":"","_id":"64a1bfaac2d3e0deb14337e4","createdAt":"2023-07-02T18:19:22.403Z","updatedAt":"2023-07-02T18:19:22.403Z"}
+{"alias":"pirola","preferencias":"restaurantes","correo":"","comentarios":"","_id":"64a1c61cd2231176c85d88d2","createdAt":"2023-07-02T18:46:52.792Z","updatedAt":"2023-07-02T18:46:52.792Z"}
+{"alias":"45454","preferencias":"restaurantes","correo":"","comentarios":"","_id":"64a1cacd437760f6d51dc394","createdAt":"2023-07-02T19:06:53.805Z","updatedAt":"2023-07-02T19:06:53.805Z"}
+{"alias":"asas","preferencias":"restaurantes","correo":"","comentarios":"","_id":"64a2cf92e37813aa4810177b","createdAt":"2023-07-03T13:39:30.496Z","updatedAt":"2023-07-03T13:39:30.496Z"}
+{"alias":"conseguido","preferencias":"restaurantes","correo":"","comentarios":"","_id":"64a2d78a68208ca66ca02e68","createdAt":"2023-07-03T14:13:30.154Z","updatedAt":"2023-07-03T14:13:30.154Z"}
