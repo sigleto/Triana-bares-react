@@ -22,7 +22,9 @@ fs.appendFile('src/notas.txt', JSON.stringify(nueva) + '\n', (err) => {
       console.error('Error al guardar la nota en el archivo:', err);
     }
   });
-res.send(nueva)
+res.send(nueva);
+
+
 
 
 } )

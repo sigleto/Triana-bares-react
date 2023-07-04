@@ -4,7 +4,7 @@ import mongoose, { Schema } from "mongoose"
 const Esquema=mongoose.Schema(
 
     {
-        alias: { type: String, required: true, trim: true, unique: true },
+        alias: { type: String, required: true, trim: true },
         preferencias: {type: String, trim: true},
         correo: {type: String},
         comentarios:{type: String, trim: true}

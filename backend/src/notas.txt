@@ -34,3 +34,22 @@
 {"alias":"desde render","preferencias":"bares","correo":"","comentarios":"","_id":"64a2d963a89d65c79bb52504","createdAt":"2023-07-03T14:21:23.653Z","updatedAt":"2023-07-03T14:21:23.653Z"}
 {"alias":"sas","preferencias":"bares","correo":"","comentarios":"","_id":"64a2d977a89d65c79bb52506","createdAt":"2023-07-03T14:21:43.276Z","updatedAt":"2023-07-03T14:21:43.276Z"}
 {"alias":"ñoño","preferencias":"restaurantes","correo":"","comentarios":"","_id":"64a2f5ffe23f5e007d29dd13","createdAt":"2023-07-03T16:23:27.477Z","updatedAt":"2023-07-03T16:23:27.477Z"}
+{"alias":"asa","preferencias":"bares","correo":"","comentarios":"","_id":"64a45fdf244c3d4243640739","createdAt":"2023-07-04T18:07:27.602Z","updatedAt":"2023-07-04T18:07:27.602Z"}
+{"alias":"pistoal","preferencias":"bares","correo":"","comentarios":"","_id":"64a46065218dda0b4ff01880","createdAt":"2023-07-04T18:09:41.498Z","updatedAt":"2023-07-04T18:09:41.498Z"}
+{"alias":"que","preferencias":"bares","correo":"","comentarios":"","_id":"64a464846f84c249b09b88a5","createdAt":"2023-07-04T18:27:16.869Z","updatedAt":"2023-07-04T18:27:16.869Z"}
+{"alias":"sas","preferencias":"bares","correo":"","comentarios":"","_id":"64a469029982ee53d3324bec","createdAt":"2023-07-04T18:46:26.840Z","updatedAt":"2023-07-04T18:46:26.840Z"}
+{"alias":"asas","preferencias":"bares","correo":"","comentarios":"","_id":"64a4692e9982ee53d3324bee","createdAt":"2023-07-04T18:47:10.848Z","updatedAt":"2023-07-04T18:47:10.848Z"}
+{"alias":"dasds","preferencias":"bares","correo":"","comentarios":"","_id":"64a469749982ee53d3324bf0","createdAt":"2023-07-04T18:48:20.286Z","updatedAt":"2023-07-04T18:48:20.286Z"}
+{"alias":"ds","preferencias":"bares","correo":"","comentarios":"","_id":"64a469e49982ee53d3324bf2","createdAt":"2023-07-04T18:50:12.231Z","updatedAt":"2023-07-04T18:50:12.231Z"}
+{"alias":"ff","preferencias":"bares","correo":"","comentarios":"","_id":"64a46a6c9982ee53d3324bf4","createdAt":"2023-07-04T18:52:28.279Z","updatedAt":"2023-07-04T18:52:28.279Z"}
+{"alias":"dsd","preferencias":"bares","correo":"","comentarios":"","_id":"64a46bc739f6e59667ac97eb","createdAt":"2023-07-04T18:58:15.358Z","updatedAt":"2023-07-04T18:58:15.358Z"}
+{"alias":"ada","preferencias":"bares","correo":"","comentarios":"","_id":"64a46bd539f6e59667ac97ed","createdAt":"2023-07-04T18:58:29.952Z","updatedAt":"2023-07-04T18:58:29.952Z"}
+{"alias":"sa","preferencias":"bares","correo":"","comentarios":"","_id":"64a46cf239f6e59667ac97ef","createdAt":"2023-07-04T19:03:14.046Z","updatedAt":"2023-07-04T19:03:14.046Z"}
+{"alias":"polla","preferencias":"bares","correo":"","comentarios":"","_id":"64a496e9925a2c0cecaffb18","createdAt":"2023-07-04T22:02:17.448Z","updatedAt":"2023-07-04T22:02:17.448Z"}
+{"alias":"asas","preferencias":"bares","correo":"","comentarios":"","_id":"64a4973e925a2c0cecaffb1a","createdAt":"2023-07-04T22:03:42.485Z","updatedAt":"2023-07-04T22:03:42.485Z"}
+{"alias":"sds","preferencias":"bares","correo":"","comentarios":"","_id":"64a4977a925a2c0cecaffb1c","createdAt":"2023-07-04T22:04:42.348Z","updatedAt":"2023-07-04T22:04:42.348Z"}
+{"alias":"shg","preferencias":"restaurantes","correo":"","comentarios":"","_id":"64a497ce925a2c0cecaffb1e","createdAt":"2023-07-04T22:06:06.525Z","updatedAt":"2023-07-04T22:06:06.525Z"}
+{"alias":"sas","preferencias":"bares","correo":"","comentarios":"","_id":"64a499a5edde1b444e666072","createdAt":"2023-07-04T22:13:57.635Z","updatedAt":"2023-07-04T22:13:57.635Z"}
+{"alias":"sasa","preferencias":"bares","correo":"","comentarios":"","_id":"64a499edbd1ac32a646ef32a","createdAt":"2023-07-04T22:15:09.637Z","updatedAt":"2023-07-04T22:15:09.637Z"}
+{"alias":"aa","preferencias":"bares","correo":"","comentarios":"","_id":"64a49a33bd1ac32a646ef32c","createdAt":"2023-07-04T22:16:19.315Z","updatedAt":"2023-07-04T22:16:19.315Z"}
+{"alias":"sas","preferencias":"bares","correo":"","comentarios":"","_id":"64a49af8bd1ac32a646ef32e","createdAt":"2023-07-04T22:19:36.631Z","updatedAt":"2023-07-04T22:19:36.631Z"}

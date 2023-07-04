@@ -1,11 +1,14 @@
-import React from "react";
+import React, { useState } from "react";
 import { useForm } from "react-hook-form";
 import Clima from "../anexos/clima";
-import '../estilos/formulario.css'
+import '../estilos/formulario.css';
+import { useNavigate } from "react-router-dom";
+
 
 const Formulario = () => {
   const { register, handleSubmit,reset, formState: { errors } } = useForm();
-
+  const navigate = useNavigate(); // Obtener la función navigate
+  
   const accion = async (datos) => {
     try {
       await fetch("http://localhost:3000/formulario", {
@@ -16,9 +19,11 @@ const Formulario = () => {
       });
       console.log("Datos enviados correctamente");
       reset();
+      navigate('/')
     } catch (error) {
       console.log("Error al enviar los datos:", error);
     } 
+  
   };
 
   return (
