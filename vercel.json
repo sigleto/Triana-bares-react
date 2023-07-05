@@ -1,12 +1,12 @@
 {
   "version": 2,
   "builds": [
-    { "src": "package.json", "use": "@vercel/static-build" },
-    { "src": "/", "use": "@vercel/static" },
-    { "src": "cd../backend/src/index.js", "use": "@vercel/node" }
+    { "src": "paginaReact/package.json", "use": "@vercel/static-build" },
+    { "src": "paginaReact/**", "use": "@vercel/static" },
+    { "src": "backend/src/index.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "cd../backend/src/index.js" },
-    { "src": "/(.*)", "dest": "/index.html" }
+    { "src": "/api/.*", "dest": "backend/src/index.js" },
+    { "src": "/(.*)", "dest": "paginaReact/index.html" }
   ]
 }
