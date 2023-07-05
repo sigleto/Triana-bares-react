@@ -10,7 +10,7 @@ const Home=()=>{
         <>
 
          
-    <header class="container">
+    <header className="container">
     <img className='logo'src="/LogoJuan.png" alt="juan" />
     <img className='imagen' src="principal.webp" alt="juan" />
     <div className="parrafo"><p className="per">Esta página contiene una relación de establecimientos gastronómicos distribuidos en las categorías de "BARES" y "RESTAURANTES".La principal diferencia entre ambas es que en todos los sitios incluidos como restaurantes se puede reservar. Ello no quiere decir que también lo puedas hacer en algunos bares.
