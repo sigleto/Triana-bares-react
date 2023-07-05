@@ -54,3 +54,4 @@
 {"alias":"aa","preferencias":"bares","correo":"","comentarios":"","_id":"64a49a33bd1ac32a646ef32c","createdAt":"2023-07-04T22:16:19.315Z","updatedAt":"2023-07-04T22:16:19.315Z"}
 {"alias":"sas","preferencias":"bares","correo":"","comentarios":"","_id":"64a49af8bd1ac32a646ef32e","createdAt":"2023-07-04T22:19:36.631Z","updatedAt":"2023-07-04T22:19:36.631Z"}
 {"alias":"sdsd","preferencias":"bares","correo":"","comentarios":"","_id":"64a4fce87e586f1a1d6ede47","createdAt":"2023-07-05T05:17:28.074Z","updatedAt":"2023-07-05T05:17:28.074Z"}
+{"alias":"sas","preferencias":"bares","correo":"","comentarios":"","_id":"64a4fefd903f56138ab3e608","createdAt":"2023-07-05T05:26:21.392Z","updatedAt":"2023-07-05T05:26:21.392Z"}
