@@ -11,7 +11,7 @@
       }
     ],
     "routes": [
-      { "src": "/(.*)", "dest": "backend/index.js" },
+      { "src": "/(.*)", "dest": "backend/src/index.js" },
       { "src": "/(.*)", "dest": "paginaReact/index.html" }
     ]
   }
