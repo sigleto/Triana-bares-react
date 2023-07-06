@@ -1,7 +1,4 @@
 import React from "react";
-import Bares from "./Bares";
-import Restaurantes from "./Restaurantes";
-import { Link } from "react-router-dom";
 import { NavLink } from "react-router-dom";
 import '../estilos/establecimientos.css'
 const Establecimientos=()=>{
