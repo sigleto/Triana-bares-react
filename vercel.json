@@ -8,5 +8,20 @@
   "routes": [
     { "src": "/.*", "dest": "backend/src/index.js" },
     { "src": "/(.*)", "dest": "paginaReact/index.html" }
-  ]
+  ],
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "scripts": {
+    "build": "npm run dev",
+    "dev": "vercel dev"
+  },
+  "frameworks": {
+    "frontend": {
+      "use": "@vercel/static-build",
+      "config": {
+        "distPath": "paginaReact/dist"
+      }
+    }
+  }
 }
