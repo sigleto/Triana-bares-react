@@ -6,12 +6,9 @@
     { "src": "backend/src/index.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "backend/src/index.js" },
+    { "src": "/formulario", "dest": "backend/src/index.js" },
     { "src": "/(.*)", "dest": "paginaReact/index.html" }
-  ],
-  "env": {
-    "NODE_ENV": "production"
-  }
+  ]
  
   
 }
