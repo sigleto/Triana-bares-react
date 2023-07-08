@@ -1,7 +1,7 @@
 {
     "version": 2,
     "build": [
-      { "src": "backend", "use": "@vercel/node" }
+      { "src": "backend/src/index.js", "use": "@vercel/node" }
     ],
     "routes": [
       { "src": "/formulario", "dest": "src/index.js" }
