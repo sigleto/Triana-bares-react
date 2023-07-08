@@ -1,4 +1,3 @@
-
 {
   "version": 2,
   "builds": [
@@ -11,3 +10,4 @@
     { "src": "/(.*)", "dest": "index.html" }
   ]
 }
+
