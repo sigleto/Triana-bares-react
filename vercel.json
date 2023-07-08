@@ -11,14 +11,7 @@
   ],
   "env": {
     "NODE_ENV": "production"
-  },
- 
-  "frameworks": {
-    "frontend": {
-      "use": "@vercel/static-build",
-      "config": {
-        "distPath": "paginaReact/dist"
-      }
-    }
   }
+ 
+  
 }
