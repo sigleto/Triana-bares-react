@@ -12,10 +12,7 @@
   "env": {
     "NODE_ENV": "production"
   },
-  "scripts": {
-    "build": "npm run dev",
-    "dev": "vercel dev"
-  },
+ 
   "frameworks": {
     "frontend": {
       "use": "@vercel/static-build",
