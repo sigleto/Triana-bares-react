@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "builds": [
+  "build": [
     { "src": "paginaReact", "use": "@vercel/static-build" },
     { "src": "paginaReact/**", "use": "@vercel/static" },
     { "src": "backend/src/index.js", "use": "@vercel/node" }
