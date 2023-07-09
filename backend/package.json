@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js",
-    "build":"npm install"
+    "build":"npm install",
+    "star":"node src/index.js"
   },
   "keywords": [],
   "author": "",

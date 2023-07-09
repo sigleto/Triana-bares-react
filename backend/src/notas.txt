@@ -62,3 +62,4 @@
 {"alias":"sdsds","preferencias":"bares","correo":"","comentarios":"","_id":"64a7a7d89543193aea2c1801","createdAt":"2023-07-07T05:51:20.817Z","updatedAt":"2023-07-07T05:51:20.817Z"}
 {"alias":"dddd","preferencias":"bares","correo":"","comentarios":"d","_id":"64a7a8f69543193aea2c1803","createdAt":"2023-07-07T05:56:06.398Z","updatedAt":"2023-07-07T05:56:06.398Z"}
 {"alias":"sarss","preferencias":"bares","correo":"","comentarios":"","_id":"64a904ec93de91d536770491","createdAt":"2023-07-08T06:40:44.294Z","updatedAt":"2023-07-08T06:40:44.294Z"}
+{"alias":"vxcv","preferencias":"bares","correo":"","comentarios":"","_id":"64aad507365ad49c26cfe921","createdAt":"2023-07-09T15:40:55.289Z","updatedAt":"2023-07-09T15:40:55.289Z"}
