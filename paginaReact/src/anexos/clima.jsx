@@ -47,6 +47,7 @@ let datos=resJSON
         <p>Estado del cielo:<span className="estado"> {estado}</span><br></br></p>
         <p>Posibilidad de lluvia:<span className="lluvia"> {lluvia} %</span></p>
         </div>
+       
         </>
 
 

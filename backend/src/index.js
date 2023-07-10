@@ -6,7 +6,7 @@ import dotenv from 'dotenv'
 dotenv.config();
 const app=express();
 
-mongoose.connect("mongodb+srv://sigleto:mongoDos2ª@cluster0.yj61bca.mongodb.net/formulario?retryWrites=true&w=majority", {
+mongoose.connect(process.env.MONGO_KEY, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     
