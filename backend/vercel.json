@@ -9,12 +9,7 @@
       "src": "/(.*)",
       "dest": "/src/"
   }
-],
-
-"rewrites": [
-  {
-      "source": "/(.*)",
-      "destination": "/src/"
-  }
 ]
+
+
 }
