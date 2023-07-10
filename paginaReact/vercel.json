@@ -1,0 +1,13 @@
+{
+    "rewrites": [
+      {
+        "source": "/api/(.*)",
+        "destination": "https://servidor-flax.vercel.app/$1"
+      },
+      {
+        "source": "/(.*)",
+        "destination": "/$1"
+      }
+    ]
+  }
+  
