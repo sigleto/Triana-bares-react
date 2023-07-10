@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/formulario",
+      "destination": "https://servidor-flax.vercel.app/formulario"
+    }
+  ]
+}
+

@@ -11,7 +11,7 @@ const Formulario = () => {
   
   const accion = async (datos) => {
     try {
-      await fetch("http://localhost:3000/formulario", {
+      await fetch("https://servidor-flax.vercel.app/formulario", {
         method: 'POST',
         mode: 'cors',
         body: JSON.stringify(datos),
