@@ -19,6 +19,6 @@ const Establecimientos=()=>{
     </ul>
   </div>
     </>
-)
+
 } 
 export default Establecimientos
