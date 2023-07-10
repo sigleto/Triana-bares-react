@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/(.*)",
-        "destination": "https://servidor-git-main-sigleto.vercel.app/$1"
+        "destination": "https://servidor-git-main-sigleto.vercel.app/formulario/$1"
       }
       
     ]
