@@ -9,7 +9,7 @@ const Establecimientos=()=>{
     
     <div className="cate">   
    
-    </div>
+    
     <h2>Elige categoría:</h2>
     
     <ul className="lista">
@@ -17,7 +17,7 @@ const Establecimientos=()=>{
     <NavLink to="/restaurantes" >RESTAURANTES</NavLink>
         
     </ul>
-    </div> 
+  </div>
     </>
 )
 } 
