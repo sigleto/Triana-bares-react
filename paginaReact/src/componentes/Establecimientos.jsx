@@ -3,13 +3,11 @@ import { NavLink,Link } from "react-router-dom";
 
 import '../estilos/establecimientos.css'
 const Establecimientos=()=>{
-    
-    <>
-    
-    
+
+
+     return (
+    <>    
     <div className="cate">   
-   
-    
     <h2>Elige categoría:</h2>
     
     <ul className="lista">
@@ -19,6 +17,6 @@ const Establecimientos=()=>{
     </ul>
   </div>
     </>
-
+)
 } 
 export default Establecimientos
