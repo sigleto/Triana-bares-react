@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/formulario",
-      "destination": "https://servidor-flax.vercel.app/formulario"
+      "destination": "https://pagina-react-para-vercel.vercel.app/formulario"
     }
   ]
 }
