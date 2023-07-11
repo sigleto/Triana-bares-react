@@ -10,8 +10,8 @@ const url_cena = `https://www.thefork.es/search?cc=16774-c1d&cityId=506461&date=
     <>    
     <div className="cate"> 
           Antes de entrar en materia, consulta la disponibilidad para hoy:<br></br>
-    <NavLink className="disponible" target="_blank" to={url_comida}>Con disponibilidad para comida</NavLink><br></br>   
-     <NavLink className="disponible" target="_blank" to={url_cena}>Con disponibilidad para cena</NavLink>   
+    <NavLink className="disponible"  to={url_comida} target="_blank">Con disponibilidad para comida</NavLink><br></br>   
+     <NavLink className="disponible" to={url_cena} target="_blank" >Con disponibilidad para cena</NavLink>   
     <h2>Elige categoría:</h2>
     
     <ul className="lista">
