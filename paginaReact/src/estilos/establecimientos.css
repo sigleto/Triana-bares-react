@@ -20,3 +20,20 @@
     margin-bottom: 90px;
     padding: 40px;
 }
+/* Estilos para dispositivos móviles */
+@media (max-width: 600px) {
+    .cate {
+        height: 400px; /* Ajusta la altura para dispositivos móviles */
+        background-size: contain; /* Ajusta el tamaño de la imagen para dispositivos móviles */
+        font-size: 20px; /* Reduce el tamaño de fuente para dispositivos móviles */
+    }
+    
+    .lista {
+        margin-left: 0; /* Elimina el margen izquierdo */
+        width: 100%; /* El ancho ocupará todo el espacio disponible */
+    }
+    
+    .url {
+        font-size: 18px; /* Reduce el tamaño de fuente para dispositivos móviles */
+    }
+}
