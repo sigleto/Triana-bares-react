@@ -36,3 +36,20 @@ p{
     margin-bottom: 20px;
     
 }
+
+/* Estilos para dispositivos móviles */
+@media (max-width: 600px) {
+    .campos label {
+        width: 100%; /* El ancho de la etiqueta ocupará todo el espacio disponible */
+    }
+
+    .comentarios textarea {
+        width: 100%; /* El ancho del textarea ocupará todo el espacio disponible */
+    }
+
+    .pulpito {
+        width: 90%;
+        margin-left: 5%;
+        margin-bottom: 20px;
+    }
+}
