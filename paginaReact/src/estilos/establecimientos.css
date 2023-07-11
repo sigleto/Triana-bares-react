@@ -13,16 +13,10 @@
     width: 240px;
 }
 .disponible{
-    width:max-content;
-    color: beige;
-    height: min-content;
-    margin-top: 20px;
-    
+    font-size: 18;
+    color: rgb(255, 238, 127);
 }
-.url{
-    margin-top: 50px;
-    background-color: aquamarine;
-    font-size: 23px;
-    text-decoration: none;
-   
+.hora{
+    margin-bottom: 90px;
+    padding: 40px;
 }
