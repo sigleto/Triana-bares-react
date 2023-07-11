@@ -27,3 +27,12 @@
     font-size: 25px;
     text-align: center;
 }
+@media (max-width: 600px) {
+    .contenido1, .contenido2 {
+        width: 100%; /* El ancho ocupará todo el espacio disponible */
+    }
+    
+    .estab {
+        margin-left: 0; /* Elimina el margen izquierdo */
+    }
+}
