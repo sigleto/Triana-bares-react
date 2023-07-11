@@ -14,7 +14,7 @@ const año=fecha.getFullYear();
      return (
     <>    
     <div className="cate"> 
-        <div classNmae="hora">
+        <div className="hora">
           Antes de entrar en materia, consulta la disponibilidad para hoy:<br></br>
     <NavLink className="disponible"  to={url_comida} target="_blank">Con disponibilidad para comida</NavLink><br></br>   
      <NavLink className="disponible" to={url_cena} target="_blank" >Con disponibilidad para cena</NavLink>  
