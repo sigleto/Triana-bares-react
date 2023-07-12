@@ -20,7 +20,9 @@
     background-color: rgb(46, 226, 43);
 }
 @media (max-width: 600px) {
-    .navegador {
-        font-size: 12px;
-    }
+  .navegador {
+    flex-direction: column; /* Cambia a dirección vertical */
+    align-items: center; /* Centra los elementos verticalmente */
+    font-size: 16px;
+  }
 }
