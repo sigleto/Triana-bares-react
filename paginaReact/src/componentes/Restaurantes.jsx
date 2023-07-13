@@ -71,22 +71,38 @@ const Restaurantes=()=>{
     </ul>
     </div>
     <div class="estab"> 
-    <div class="bar">RINCONCETE Y CORTADILLO</div>
+    <div class="bar">ARROCERIA CRIAITO</div>
     <ul>
-        <li><a href="https://www.google.es/maps/place/Restaurante+RICO+Rinconete+y+Cortadillo/@37.3835762,-6.0051456,401m/data=!3m1!1e3!4m9!1m2!2m1!1srestaurantes!3m5!1s0xd126d7a8b45d8b3:0xe654e565a7099026!8m2!3d37.3839673!4d-6.0045634!15sCgxyZXN0YXVyYW50ZXNaDiIMcmVzdGF1cmFudGVzkgEKcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VNMk5qUm1kRzlCUlJBQuABAA?hl=es&authuser=0">Ubicación</a></li>
-        <li><a href="https://www.google.com/maps/reserve/v/dine/c/CZe4AvmGg4k?source=pa&hl=es-ES&gei=HzjnY5S8JP2tkdUPjbuD4AY&sourceurl=https://www.google.es/search?q%3Drinconete%2By%2Bcortadillo%2Bsevilla%26sxsrf%3DAJOqlzX24YKR_zCT1MROAUT0i6ki-KL_xw:1676097559321%26source%3Dhp%26ei%3DFzjnY4LgEK6AhbIP0IeE0AU%26iflsig%3DAK50M_UAAAAAY-dGJwZczUdMBTekwaFDbLzag7vCEO8c%26gs_ssp%3DeJzj4tVP1zc0zDM0N7VIysowYLRSMahIMTQySzFPtEgyMU2xSDK2MqhINTM1STU1M000N7C0NDAy85IrysxLzs9LLUlVqFRIzi8qSUzJzMnJVyhOLQPSiQD6whn8%26oq%3Drinconce%26gs_lcp%3DCgdnd3Mtd2l6EAEYATINCC4QgAQQsQMQgwEQCjINCC4QgAQQxwEQrwEQCjIKCAAQgAQQsQMQCjIHCAAQgAQQCjIHCAAQgAQQCjIHCAAQgAQQCjIHCAAQgAQQCjIHCAAQgAQQCjIHCAAQgAQQCjIHCAAQgAQQCjoECC4QJzoECCMQJzoECAAQQzoLCC4QgAQQsQMQgwE6FAguEIAEELEDEIMBEMcBENEDENQCOhEILhCABBCxAxCDARDHARDRAzoKCC4QxwEQ0QMQQzoICC4QgAQQsQM6CAgAEIAEELEDOgcIABCxAxBDOgoIABCxAxCDARBDOgsILhCDARCxAxCABDoLCC4QrwEQxwEQgAQ6BQgAEIAEOgsILhCABBDHARCvAVAAWOcXYJgvaABwAHgAgAG2AYgBjQiSAQMwLjiYAQCgAQE%26sclient%3Dgws-wiz">Reserva una mesa</a></li>
-        <li><a href="https://www.tripadvisor.es/Restaurant_Review-g187443-d23482813-Reviews-Rico_rinconete_Y_Cortadillo-Seville_Province_of_Seville_Andalucia.html" target="_blank">Estrellas de TripAdvisor</a></li>
+        <li><a href="https://www.google.es/maps/place/Arrocer%C3%ADa+Criaito+Triana/@37.3856463,-6.0032357,15z/data=!4m2!3m1!1s0x0:0x1a797f02f63d895e?sa=X&ved=2ahUKEwiogObB_YuAAxXaiP0HHZo_BdcQ_BJ6BAhOEAA&ved=2ahUKEwiogObB_YuAAxXaiP0HHZo_BdcQ_BJ6BAhqEAg">Ubicación</a></li>
+        <li><a href="">Reserva: 680 70 84 39</a></li>
+        <li><a href="https://www.tripadvisor.es/Restaurant_Review-g187443-d10721760-Reviews-Arroceria_Criaito_Triana-Seville_Province_of_Seville_Andalucia.html" target="_blank">Estrellas de TripAdvisor</a></li>
     </ul>
     </div>
     <div class="estab"> 
-    <div class="bar">RINCONCETE Y CORTADILLO</div>
+    <div class="bar">SAONA TRIANA</div>
     <ul>
-        <li><a href="https://www.google.es/maps/place/Restaurante+RICO+Rinconete+y+Cortadillo/@37.3835762,-6.0051456,401m/data=!3m1!1e3!4m9!1m2!2m1!1srestaurantes!3m5!1s0xd126d7a8b45d8b3:0xe654e565a7099026!8m2!3d37.3839673!4d-6.0045634!15sCgxyZXN0YXVyYW50ZXNaDiIMcmVzdGF1cmFudGVzkgEKcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VNMk5qUm1kRzlCUlJBQuABAA?hl=es&authuser=0">Ubicación</a></li>
-        <li><a href="https://www.google.com/maps/reserve/v/dine/c/CZe4AvmGg4k?source=pa&hl=es-ES&gei=HzjnY5S8JP2tkdUPjbuD4AY&sourceurl=https://www.google.es/search?q%3Drinconete%2By%2Bcortadillo%2Bsevilla%26sxsrf%3DAJOqlzX24YKR_zCT1MROAUT0i6ki-KL_xw:1676097559321%26source%3Dhp%26ei%3DFzjnY4LgEK6AhbIP0IeE0AU%26iflsig%3DAK50M_UAAAAAY-dGJwZczUdMBTekwaFDbLzag7vCEO8c%26gs_ssp%3DeJzj4tVP1zc0zDM0N7VIysowYLRSMahIMTQySzFPtEgyMU2xSDK2MqhINTM1STU1M000N7C0NDAy85IrysxLzs9LLUlVqFRIzi8qSUzJzMnJVyhOLQPSiQD6whn8%26oq%3Drinconce%26gs_lcp%3DCgdnd3Mtd2l6EAEYATINCC4QgAQQsQMQgwEQCjINCC4QgAQQxwEQrwEQCjIKCAAQgAQQsQMQCjIHCAAQgAQQCjIHCAAQgAQQCjIHCAAQgAQQCjIHCAAQgAQQCjIHCAAQgAQQCjIHCAAQgAQQCjIHCAAQgAQQCjoECC4QJzoECCMQJzoECAAQQzoLCC4QgAQQsQMQgwE6FAguEIAEELEDEIMBEMcBENEDENQCOhEILhCABBCxAxCDARDHARDRAzoKCC4QxwEQ0QMQQzoICC4QgAQQsQM6CAgAEIAEELEDOgcIABCxAxBDOgoIABCxAxCDARBDOgsILhCDARCxAxCABDoLCC4QrwEQxwEQgAQ6BQgAEIAEOgsILhCABBDHARCvAVAAWOcXYJgvaABwAHgAgAG2AYgBjQiSAQMwLjiYAQCgAQE%26sclient%3Dgws-wiz">Reserva una mesa</a></li>
-        <li><a href="https://www.tripadvisor.es/Restaurant_Review-g187443-d23482813-Reviews-Rico_rinconete_Y_Cortadillo-Seville_Province_of_Seville_Andalucia.html" target="_blank">Estrellas de TripAdvisor</a></li>
+        <li><a href="https://www.google.es/maps/place/Saona+Triana/@37.3829696,-6.0045468,15z/data=!4m2!3m1!1s0x0:0xabbd62ee206cc792?sa=X&ved=2ahUKEwjDzNPe_ouAAxXziv0HHfbnAc0Q_BJ6BAhLEAA&ved=2ahUKEwjDzNPe_ouAAxXziv0HHfbnAc0Q_BJ6BAhhEAg">Ubicación</a></li>
+        <li><a href="">Reserva: 954 66 76 04</a></li>
+        <li><a href="https://www.tripadvisor.es/Restaurant_Review-g187443-d23685089-Reviews-Saona_Triana-Seville_Province_of_Seville_Andalucia.html" target="_blank">Estrellas de TripAdvisor</a></li>
     </ul>
     </div>
-    
+    <div class="estab"> 
+    <div class="bar">PARRILLA ARGENTINA ATAHUAPA</div>
+    <ul>
+        <li><a href="https://www.google.es/maps/place/Atahualpa/@37.3789583,-6.0009944,15z/data=!4m2!3m1!1s0x0:0x95cb20765fe398b?sa=X&ved=2ahUKEwjJxubm_4uAAxWWtqQKHZgKAR8Q_BJ6BAhHEAA&ved=2ahUKEwjJxubm_4uAAxWWtqQKHZgKAR8Q_BJ6BAhoEAg">Ubicación</a></li>
+        <li><a href="https://www.thefork.es/restaurante/parrilla-argentina-atahualpa-r14396">Reserva una mesa</a></li>
+        <li><a href="https://www.tripadvisor.es/Restaurant_Review-g187443-d4433546-Reviews-Atahualpa-Seville_Province_of_Seville_Andalucia.html" target="_blank">Estrellas de TripAdvisor</a></li>
+    </ul>
+    </div>
+    <div class="estab"> 
+    <div class="bar">MESON CASA LUCIANO</div>
+    <ul>
+        <li><a href="https://www.google.es/maps/place/Mes%C3%B3n+Casa+Luciano/@37.3794444,-6.0008333,15z/data=!4m2!3m1!1s0x0:0x8fc31191f572feeb?sa=X&ved=2ahUKEwigg8jKgIyAAxXLGewKHbRgCrQQ_BJ6BAhLEAA&ved=2ahUKEwigg8jKgIyAAxXLGewKHbRgCrQQ_BJ6BAhlEAg">Ubicación</a></li>
+        <li><a href="https://www.thefork.es/restaurante/meson-casa-luciano-r36392">Reserva una mesa</a></li>
+        <li><a href="https://www.tripadvisor.es/Restaurant_Review-g187443-d3876780-Reviews-Meson_Casa_Luciano-Seville_Province_of_Seville_Andalucia.html" target="_blank">Estrellas de TripAdvisor</a></li>
+    </ul>
+    </div>
+   
     
     </div>
         
