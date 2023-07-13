@@ -16,7 +16,7 @@ const Bares=()=>{
     <div className="bar">LAS GOLONDRINAS 2</div>
     <ul>
         <li><a href="https://www.google.es/maps/place/Las+Golondrinas+-+Pag%C3%A9s+del+Corro/@37.3840763,-6.0055876,15z/data=!4m5!3m4!1s0x0:0x9532523f76e64bd0!8m2!3d37.3840811!4d-6.0055642">Ubicación</a></li>
-        <li><a href="">Reserva una mesa</a></li>
+        <li><a href="">Reserva:954 33 82 35</a></li>
         <li><a href="https://www.aeat/wlpl/RHCS-JDIT/HorarioOVP" target="_blank">Estrellas de TripAdvisor</a></li>
     </ul>
     </div>
@@ -32,7 +32,7 @@ const Bares=()=>{
     <div className="bar">LA BLANCA PALOMA</div>
     <ul>
         <li><a href="https://www.google.es/search?q=la%20blanca%20paloma%20sevilla&sxsrf=AJOqlzXoYPu8QbqaYQK6UoDBOAmcfpQBAg:1676318210985&source=hp&ei=_JXqY4KCNbSZkdUP3KaIwAM&iflsig=AK50M_UAAAAAY-qkDJ57JuRNCAjOE2PFLsldTG7jDtuD&oq=la+bla&gs_lcp=Cgdnd3Mtd2l6EAEYADIECCMQJzIECCMQJzIKCC4QsQMQgwEQQzIKCC4QrwEQxwEQQzIECAAQQzILCC4QgAQQxwEQrwEyCwguEIAEEMcBEK8BMgUIABCABDILCC4QgAQQxwEQrwEyBQgAEIAEOgoILhDHARCvARBDOgoILhCDARCxAxBDOg4ILhCABBCxAxDHARDRAzoRCC4QgAQQsQMQgwEQxwEQ0QM6CgguEMcBEK8BECc6CwgAEIAEELEDEIMBOgcILhDUAhBDOggIABCxAxCDAToOCC4QgAQQyQMQxwEQrwFQAFiqCmCXIGgAcAB4AIABpgGIAakGkgEDMC42mAEAoAEB&sclient=gws-wiz&tbs=lf:1,lf_ui:2&tbm=lcl&rflfq=1&num=10&rldimm=9096604268979346244&lqi=ChhsYSBibGFuY2EgcGFsb21hIHNldmlsbGFI77jO4-eAgIAIWjAQABABEAIYARgCGAMiGGxhIGJsYW5jYSBwYWxvbWEgc2V2aWxsYSoICAIQABABEAKSAQ1iYXJfYW5kX2dyaWxs&ved=2ahUKEwi_5vv7o5P9AhWk_7sIHZ35DbEQvS56BAgQEAE&sa=X&rlst=f#rlfi=hd:;si:9096604268979346244,l,ChhsYSBibGFuY2EgcGFsb21hIHNldmlsbGFI77jO4-eAgIAIWjAQABABEAIYARgCGAMiGGxhIGJsYW5jYSBwYWxvbWEgc2V2aWxsYSoICAIQABABEAKSAQ1iYXJfYW5kX2dyaWxs;mv:[[37.425395699999996,-5.9045476],[37.3807165,-6.011552399999999]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2">Ubicación</a></li>
-        <li><a href="">Reservar una mesa:Teléfono: 954 33 36 40</a></li>
+        <li><a href="">Reserva: 954 33 36 40</a></li>
         <li><a href="https://www.tripadvisor.es/Restaurant_Review-g187443-d2360731-Reviews-Blanca_Paloma-Seville_Province_of_Seville_Andalucia.html" target="_blank">Estrellas de TripAdvisor</a></li>
     </ul>
     </div>
@@ -56,7 +56,7 @@ const Bares=()=>{
     <div className="bar">POR LA BOCA MUERE EL PEZ</div>
     <ul>
         <li><a href="https://www.google.es/maps/place/Restaurante+Por+la+boca+muere+el+pez+tapas/@37.3766714,-6.005816,15z/data=!4m2!3m1!1s0x0:0xbb965783ee86fad6?sa=X&ved=2ahUKEwiLlI6pppP9AhXQSKQEHbfFB5YQ_BJ6BQiHARAI">Ubicación</a></li>
-        <li><a href="">Reserva una mesa:Teléfono: 625 81 99 34</a></li>
+        <li><a href="">Reserva: 625 81 99 34</a></li>
         <li><a href="https://www.tripadvisor.es/Restaurant_Review-g187443-d23375731-Reviews-Por_La_Boca_Muere_El_Pez_Tapas-Seville_Province_of_Seville_Andalucia.html">Estrellas de TripAdvisor</a></li>
     </ul>
     </div>
@@ -96,7 +96,7 @@ const Bares=()=>{
     <div className="bar">CASA REMESAL</div>
     <ul>
         <li><a href="https://www.google.es/maps/place/Bar+Casa+Remesal/@37.3837026,-6.0009529,15z/data=!4m2!3m1!1s0x0:0xd1d4aff642c0d6fe?sa=X&ved=2ahUKEwiF3Kyd6oqAAxWzVaQEHa01Af0Q_BJ6BAhOEAA&ved=2ahUKEwiF3Kyd6oqAAxWzVaQEHa01Af0Q_BJ6BAhgEAg">Ubicación</a></li>
-        <li><a href="">Reserva una mesa:Teléfono: 608 61 58 46</a></li>
+        <li><a href="">Reserva: 608 61 58 46</a></li>
         <li><a href="https://www.tripadvisor.es/Restaurant_Review-g187443-d2341423-Reviews-Casa_Remesal-Seville_Province_of_Seville_Andalucia.html">Estrellas de TripAdvisor</a></li>
     </ul>
     </div>
