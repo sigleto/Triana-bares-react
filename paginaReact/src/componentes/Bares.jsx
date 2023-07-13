@@ -60,7 +60,57 @@ const Bares=()=>{
         <li><a href="https://www.tripadvisor.es/Restaurant_Review-g187443-d23375731-Reviews-Por_La_Boca_Muere_El_Pez_Tapas-Seville_Province_of_Seville_Andalucia.html">Estrellas de TripAdvisor</a></li>
     </ul>
     </div>
-    
+    <div className="estab">  
+    <div className="bar">VEGA 10</div>
+    <ul>
+        <li><a href="https://www.tripadvisor.es/Restaurant_Review-g187443-d1738841-Reviews-Vega_10-Seville_Province_of_Seville_Andalucia.html">Ubicación</a></li>
+        <li><a href="https://www.tripadvisor.es/Restaurant_Review-g187443-d1738841-Reviews-Vega_10-Seville_Province_of_Seville_Andalucia.html">Reserva una mesa</a></li>
+        <li><a href="https://www.tripadvisor.es/Restaurant_Review-g187443-d1738841-Reviews-Vega_10-Seville_Province_of_Seville_Andalucia.html">Estrellas de TripAdvisor</a></li>
+    </ul>
+    </div>
+    <div className="estab">  
+    <div className="bar">LA COARTADA</div>
+    <ul>
+        <li><a href="https://www.tripadvisor.es/Restaurant_Review-g187443-d23934279-Reviews-La_Coartada-Seville_Province_of_Seville_Andalucia.html">Ubicación</a></li>
+        <li><a href="https://www.thefork.es/restaurante/la-coartada-r721345#date=2023-07-13&hour=1290&partySize=2">Reserva una mesa</a></li>
+        <li><a href="https://www.tripadvisor.es/Restaurant_Review-g187443-d23934279-Reviews-La_Coartada-Seville_Province_of_Seville_Andalucia.html">Estrellas de TripAdvisor</a></li>
+    </ul>
+    </div>
+    <div className="estab">  
+    <div className="bar">GASCONA</div>
+    <ul>
+        <li><a href="https://www.google.es/maps/place/Gascona/@37.3867464,-6.0048046,15z/data=!4m2!3m1!1s0x0:0x4ec5e366e3ccb3fa?sa=X&ved=2ahUKEwjrkPqV6IqAAxVCTqQEHYEkDuIQ_BJ6BAhPEAA&ved=2ahUKEwjrkPqV6IqAAxVCTqQEHYEkDuIQ_BJ6BAhjEAg">Ubicación</a></li>
+        <li><a href="https://www.thefork.es/restaurante/gascona-r726404#date=2023-07-13&hour=1230&partySize=2">Reserva una mesa</a></li>
+        <li><a href="https://www.tripadvisor.es/Restaurant_Review-g187443-d23788283-Reviews-Gascona-Seville_Province_of_Seville_Andalucia.html">Estrellas de TripAdvisor</a></li>
+    </ul>
+    </div>
+    <div className="estab">  
+    <div className="bar">SOL Y SOMBRA</div>
+    <ul>
+        <li><a href="https://www.google.com/maps/reserve/v/dine/c/WfmIeBEOcrQ?source=pa&hl=es-ES&gei=1XmvZJrxI-btkdUPo760uAc&sourceurl=http://www.google.es/service/MapsPlaceService/GetPlace?authuser%3D0%26gl%3Des%26hl%3Des%26q%3DTaberna%2BSol%2By%2BSombra">Ubicación</a></li>
+        <li><a href="https://www.thefork.es/restaurante/sol-y-sombra-r17946#date=2023-07-13&hour=1260&partySize=2">Reserva una mesa</a></li>
+        <li><a href="https://www.tripadvisor.es/Restaurant_Review-g187443-d1153685-Reviews-Sol_y_Sombra-Seville_Province_of_Seville_Andalucia.html">Estrellas de TripAdvisor</a></li>
+    </ul>
+    </div>
+    <div className="estab">  
+    <div className="bar">CASA REMESAL</div>
+    <ul>
+        <li><a href="https://www.google.es/maps/place/Bar+Casa+Remesal/@37.3837026,-6.0009529,15z/data=!4m2!3m1!1s0x0:0xd1d4aff642c0d6fe?sa=X&ved=2ahUKEwiF3Kyd6oqAAxWzVaQEHa01Af0Q_BJ6BAhOEAA&ved=2ahUKEwiF3Kyd6oqAAxWzVaQEHa01Af0Q_BJ6BAhgEAg">Ubicación</a></li>
+        <li><a href="">Reserva una mesa:Teléfono: 608 61 58 46</a></li>
+        <li><a href="https://www.tripadvisor.es/Restaurant_Review-g187443-d2341423-Reviews-Casa_Remesal-Seville_Province_of_Seville_Andalucia.html">Estrellas de TripAdvisor</a></li>
+    </ul>
+    </div>
+    <div className="estab">  
+    <div className="bar">EL ZERO 10</div>
+    <ul>
+        <li><a href="https://www.tripadvisor.es/LocationPhotoDirectLink-g187443-d8084486-i237736940-41cero10-Seville_Province_of_Seville_Andalucia.html">Ubicación</a></li>
+        <li><a href="https://elzero10.com/reservas/">Reserva una mesa</a></li>
+        <li><a href="https://www.tripadvisor.es/LocationPhotoDirectLink-g187443-d8084486-i237736940-41cero10-Seville_Province_of_Seville_Andalucia.html">Estrellas de TripAdvisor</a></li>
+    </ul>
+    </div>
+   
+   
+       
     
     </div>
 
