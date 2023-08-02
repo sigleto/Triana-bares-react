@@ -4,7 +4,7 @@
     justify-content: center;
     width: 90%;
     background-color: azure;
-    background-image: url("principald.jpg");
+    background-image: url("/principald.jpg");
     background-size: cover;
     font-size: 25px;
     text-align: center;
@@ -15,7 +15,7 @@
     justify-content: center;
     width: 90%;
     background-color: azure;
-    background-image: url("principald.jpg");
+    background-image: url("/principalh.jpg");
     background-size: cover;
     font-size: 25px;
     text-align: center;
@@ -37,6 +37,12 @@
 
 /* Estilos para dispositivos móviles */
 @media (max-width: 600px) {
+
+    .contenido1, .contenido2 {
+        background-image: none; /* Eliminar el fondo de imagen */
+        background-color: azure; /* Establecer el fondo de color azul */
+        background-color: rgba(255, 166, 0, 0.846)
+    }
     .estab {
         flex-basis: 90%;
     }
