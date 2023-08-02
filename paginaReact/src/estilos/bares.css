@@ -22,13 +22,17 @@
 }
 
 .estab {
-    flex-basis: 30%;
+    flex-basis: 50%;
     margin: 20px 10px;
     background-color: bisque;
 }
 
 .estab li {
     list-style: none;
+}
+.fotos{
+    width: 50%;
+    height: 50%;
 }
 
 /* Estilos para dispositivos móviles */

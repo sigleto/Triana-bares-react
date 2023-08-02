@@ -38,7 +38,7 @@ const Formulario = () => {
         <div className="preferencias">
           <label htmlFor="preferencias"><p>Preferencias</p></label>
           <input type="radio" name="sitios" value="bares" {...register("preferencias", { required: true })} />Bares, tascas y demás<br></br>
-          <input type="radio" name="sitios" value="restaurantes" {...register("preferencias", { required: true })} />Restaurantes y cosas finas<br></br>
+          <input type="radio" name="sitios" value="restaurantes" {...register("preferencias", { required: true })} />Restaurantes y similares<br></br>
         </div>
         <div className="campos">
           <label htmlFor="email"><p>E-Mail</p></label>

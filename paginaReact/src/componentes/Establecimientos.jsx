@@ -15,7 +15,7 @@ const año=fecha.getFullYear();
     <>    
     <div className="cate"> 
         <div className="hora">
-          Antes de entrar en materia, consulta la disponibilidad para hoy:<br></br>
+          Antes de entrar en materia, consulta la disponibilidad para hoy en la página de "thefork.es":<br></br>
     <NavLink className="disponible"  to={url_comida} target="_blank">Con disponibilidad para comida</NavLink><br></br>   
      <NavLink className="disponible" to={url_cena} target="_blank" >Con disponibilidad para cena</NavLink>  
          </div>   
