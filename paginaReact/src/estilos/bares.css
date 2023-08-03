@@ -1,18 +1,16 @@
-
 .contenido {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     width: 100%;
     background-color: rgb(249, 255, 255);
-    
     background-size: cover;
     font-size: 25px;
     text-align: center;
 }
 
 .estab {
-    flex-basis: 50%;
+    width: 45%; /* Ajusta el valor según tus preferencias */
     margin: 20px 10px;
     background-color: bisque;
 }
@@ -20,20 +18,25 @@
 .estab li {
     list-style: none;
 }
-.fotos{
-    width: 50%;
-    height: 50%;
+
+.fotos {
+    width: 60%;
+    height: 200px; /* Ajusta el alto según tus preferencias */
+    object-fit: cover; /* Ajusta la imagen al contenedor sin sobresalir */
+}
+
+.bar {
+    width: 100%;
 }
 
 /* Estilos para dispositivos móviles */
 @media (max-width: 600px) {
-
     .contenido1, .contenido2 {
         background-image: none; /* Eliminar el fondo de imagen */
         background-color: azure; /* Establecer el fondo de color azul */
-        background-color: rgba(255, 166, 0, 0.846)
+        background-color: rgba(255, 166, 0, 0.846);
     }
     .estab {
-        flex-basis: 90%;
+        width: 90%; /* Ajustar el ancho para dispositivos móviles */
     }
 }

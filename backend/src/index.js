@@ -3,6 +3,8 @@ import cors from "cors"
 import mongoose from "mongoose"
 import router from "./routes/routes.js"
 import dotenv from 'dotenv'
+
+
 dotenv.config();
 const app=express();
 
@@ -32,3 +34,4 @@ app.use(express.urlencoded({extended:false}));
 
 
 app.listen(process.env.PORT||3000,()=>console.log("escuchando en 3000"))
+ 
