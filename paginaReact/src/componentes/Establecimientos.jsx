@@ -1,7 +1,5 @@
 import React,{useState} from "react";
 import { NavLink,Link } from "react-router-dom";
-
-
 import '../estilos/establecimientos.css'
 const Establecimientos=()=>{
 const fecha=new Date();
@@ -17,16 +15,18 @@ const año=fecha.getFullYear();
     <div className="cate"> 
         <div className="hora">
           Antes de entrar en materia, consulta la disponibilidad para hoy en la página de "thefork.es":<br></br>
+    <div className="navega">
     <NavLink className="disponible"  to={url_comida} target="_blank">Con disponibilidad para comida</NavLink><br></br>   
      <NavLink className="disponible" to={url_cena} target="_blank" >Con disponibilidad para cena</NavLink>  
-         </div>   
+    </div>
+        </div>   
     <h2>Elige categoría:</h2>
-    
-    <ul className="lista">
+    <div className="lista">
+    <ul >
     <NavLink to="/bares" >BARES</NavLink><br></br><br></br>
     <NavLink to="/restaurantes" >RESTAURANTES</NavLink>
-        
     </ul>
+    </div>
   </div>
     </>
 )

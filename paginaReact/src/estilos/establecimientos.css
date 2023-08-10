@@ -9,16 +9,24 @@
 }
 .lista{
     margin-left: 40%;
-    background-color: greenyellow;
-    width: 240px;
+    background-color: rgb(235, 235, 0);
+    width: 290px;
+    border-radius: 20px;
 }
 .disponible{
-    font-size: 18;
+    
     color: rgb(255, 238, 127);
+   
+    
 }
 .hora{
     margin-bottom: 90px;
     padding: 40px;
+}
+.navega{
+    margin-top: 30px;
+    font-size: 35px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 /* Estilos para dispositivos móviles */
 @media (max-width: 600px) {
