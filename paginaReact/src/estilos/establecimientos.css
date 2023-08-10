@@ -28,20 +28,27 @@
     font-size: 35px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
-/* Estilos para dispositivos móviles */
-@media (max-width: 600px) {
+/* Adaptación para dispositivos móviles */
+@media (max-width: 768px) {
     .cate {
-        height: 400px; /* Ajusta la altura para dispositivos móviles */
-        background-size: contain; /* Ajusta el tamaño de la imagen para dispositivos móviles */
-        font-size: 20px; /* Reduce el tamaño de fuente para dispositivos móviles */
+        font-size: 20px;
+        height: auto;
     }
     
     .lista {
-        margin-left: 0; /* Elimina el margen izquierdo */
-        width: 100%; /* El ancho ocupará todo el espacio disponible */
+        margin-left: 0;
+        width: 80%;
+        max-width: 300px;
+        margin: 20px auto;
     }
-    
-    .url {
-        font-size: 18px; /* Reduce el tamaño de fuente para dispositivos móviles */
+
+    .hora {
+        margin-bottom: 40px;
+        padding: 20px;
+    }
+
+    .navega {
+        margin-top: 20px;
+        font-size: 25px;
     }
 }
