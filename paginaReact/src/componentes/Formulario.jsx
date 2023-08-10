@@ -42,12 +42,12 @@ const Formulario = () => {
         </div>
         <div className="campos">
           <label htmlFor="email"><p>E-Mail</p></label>
-          <input id="email" placeholder="Introduce tu email" {...register("correo", { pattern: /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,4})+$/ })} />
+          <input className="inputc" id="email" placeholder="Sólo si quieres que te contestemos" {...register("correo", { pattern: /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,4})+$/ })} />
         </div>
         
         <div className="campos comentarios">
           <label htmlFor="comentarios"><p>COMENTARIOS</p></label>
-          <textarea id="comentarios" placeholder="Puedes enviar algún establecimiento que deseas que incluya,correción o sugerencia" {...register("comentarios")} />
+          <textarea id="comentarios" placeholder="Puedes enviar algún establecimiento que deseas que incluyamos,correción o sugerencia" {...register("comentarios")} />
         </div>
         <input type="submit" value="ENVIAR DATOS" />
         {errors.alias?.type === "required" && <div><p>Es obligatorio ingresar un alias</p></div>}
@@ -55,6 +55,7 @@ const Formulario = () => {
         
       </form>
       <img src="imagen-contactos.jpg" className="pulpito"alt="pulpito"/>
+      
       </div>
       <Clima />
     </>

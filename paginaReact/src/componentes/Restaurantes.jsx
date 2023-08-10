@@ -5,7 +5,7 @@ const Restaurantes=()=>{
 const {restaurantes}=useContext(Contexto)
     return(
        
-<div className="contenido1">
+<div className="contenido">
 {restaurantes.map((item,index)=>(<div key={index} className="estab">  
      <div className="bar">{item.nombre}</div>
      <ul>

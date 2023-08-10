@@ -1,11 +1,13 @@
 .contenidos{
     width: 20%;
+    
     display:flex;
     flex-direction: column;
     border: 1px solid;
     background-color: azure;
     color: brown;
-    margin-left: 700px;
+    margin-left: 800px;
+    margin-top: -150px;
    
     }
     
@@ -17,7 +19,9 @@
     }
     .fecha{
         margin-left: 55px;
+        
     }
+   
     .estado{
         margin-left: 30px;
     }
@@ -28,7 +32,7 @@
         color: #2211bc;
         
     }
-    
+   
 /* Estilos para dispositivos móviles */
 @media (max-width: 600px) {
     .contenidos {
