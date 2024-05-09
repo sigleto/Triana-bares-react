@@ -18,8 +18,9 @@ const {bares}=useContext(Contexto)
         `Reservas: ${item.reserva}`
     )}</li>
          <li><a href={item.estrellas} target='_blank'>Valoración en TripAdvisor</a></li>
+     
+     <li><a href={item.carta} target='_blank'>Menú</a></li>
      </ul>
-    
      <img className="fotos" src={item.imagen}/>
      </div>))}
      
