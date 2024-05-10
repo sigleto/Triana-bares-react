@@ -20,6 +20,7 @@
 }
 
 .fotos {
+    margin-bottom: 10px;
     width: 60%;
     height: 200px; /* Ajusta el alto según tus preferencias */
     object-fit: cover; /* Ajusta la imagen al contenedor sin sobresalir */
@@ -27,6 +28,7 @@
 
 .bar {
     width: 100%;
+    margin-top: 10px;
 }
 
 /* Estilos para dispositivos móviles */
