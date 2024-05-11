@@ -19,20 +19,20 @@ const Establecimientos = () => {
         </div>
         <div className="links">
           <NavLink className="link" to={url_comida} target="_blank">
-            <i className="fas fa-utensils"></i> Con disponibilidad para comida
+            Con disponibilidad para comida
           </NavLink>
           <NavLink className="link" to={url_cena} target="_blank">
-            <i className="fas fa-wine-glass"></i> Con disponibilidad para cena
+            Con disponibilidad para cena
           </NavLink>
         </div>
       </div>
       <h2 className="title">Elige categoría:</h2>
       <div className="categories">
         <NavLink className="category" to="/bares">
-          <i className="fas fa-glass-martini-alt"></i> BARES
+          BARES
         </NavLink>
         <NavLink className="category" to="/restaurantes">
-          <i className="fas fa-utensils"></i> RESTAURANTES
+          RESTAURANTES
         </NavLink>
       </div>
     </div>
